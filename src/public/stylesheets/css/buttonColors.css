@@ -1,0 +1,12 @@
+.AcceptButton{
+    background-color: #2196f3!important;
+    
+}
+
+.AcceptButton :hover {
+    background-color: #64b5f6!important;
+}
+
+.CancelButton{
+    
+}
